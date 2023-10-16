@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = A3._1___ConsultandoCollections
+build_property.ProjectDir = C:\Users\luisa\OneDrive\Área de Trabalho\PUC\ESTÁGIO MINASMAQUINAS\SistemaDeLembrete\luisacoutinho06\csharpcollections_alura_parte2\src\A3.1 - ConsultandoCollections\
